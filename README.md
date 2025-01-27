@@ -7,7 +7,8 @@
 <p>
 Algunas de las herramientas que se utilizó
 </p>
-![Img Alt] (https://github.com/Apocalypsemind/Aerovistas-Airways/blob/main/Black%20and%20Purple%20Modern%20Programming%20Presentation.png)
+![Img Alt](https://github.com/Apocalypsemind/Aerovistas-Airways/blob/main/Black%20and%20Purple%20Modern%20Programming%20Presentation.png)
+
 - Github Desktop
 - Data Browbser
 - My Sql Server ( Microsoft)
