@@ -1,4 +1,7 @@
 ## Aerovista Airways Final Proyect
+
+![Image](https://github.com/user-attachments/assets/18c44701-1191-4597-a040-6cde71fa057d)
+
 #### Members : 
 ##### Eduardo Villalba Bianqueri ( Data Scientist  )
 ##### Carolina Funes (project coordinator and quality control)
