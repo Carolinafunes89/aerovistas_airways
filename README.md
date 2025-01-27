@@ -7,7 +7,7 @@
 <p>
 Algunas de las herramientas que se utilizó
 </p>
-![Img Alt](https://github.com/Apocalypsemind/Aerovistas-Airways/blob/main/Black%20and%20Purple%20Modern%20Programming%20Presentation.png)
+![Image](https://github.com/user-attachments/assets/eda5ee04-4971-478b-8a02-385c3c91603c)
 
 - Github Desktop
 - Data Browbser
