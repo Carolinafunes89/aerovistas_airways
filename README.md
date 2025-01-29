@@ -4,8 +4,8 @@
 
 #### Members : 
 ##### Eduardo Villalba Bianqueri ( Data Scientist  )
-##### Carolina Funes (Data Analystyc and project coordinator)
-##### Nicolas Carrasco ( Data Engeneer)
+##### Carolina Funes (Data Analyst and project coordinator)
+##### Nicolas Carrasco ( Data Engineer)
 #####  Alejandro Gutierrez ( Bi Consultant)
 <p>
 🔧 ##Algunas de las herramientas que se utilizó
