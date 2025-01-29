@@ -25,6 +25,7 @@
 🚀##  Proceso en accion 
 #####  Comenzamos utilizando la herramienta de data browser para transformar el archivo de origen por el cual tiene de nombre "travel.sqlite".
 Al utilizar dicha herramientas se transformarón en 8 archivos de tipo csv por el cual comienza el verdadero reto 
+
 🧹## Limpieza del archivo 
 ##### Mediante la ayuda de la tabla de visualizacíones Powerbi pudimos identificar entre ellos factores por el cual corrompia el archivo y lo hacia en partes ilegible 
 * aircrafts_data_
