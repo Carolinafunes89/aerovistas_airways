@@ -11,7 +11,7 @@
 🔧 ##Algunas de las herramientas que se utilizó
 </p>
 
-![Image](https://github.com/user-attachments/assets/eda5ee04-4971-478b-8a02-385c3c91603c)
+![Image](https://github.com/user-attachments/assets/bcc13cad-bc56-4847-b94e-48e5f9ea94ea)
 
 - 🖥️ Github Desktop
 - 🔍 Data Browbser
