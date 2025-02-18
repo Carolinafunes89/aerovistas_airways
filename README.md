@@ -2,11 +2,19 @@
 
 ![Image](https://github.com/user-attachments/assets/18c44701-1191-4597-a040-6cde71fa057d)
 
-#### Members : 
-##### Eduardo Villalba Bianqueri ( Data Scientist  )
-##### Carolina Funes (Data Analyst and project coordinator)
-##### Nicolas Carrasco ( Data Engineer)
-#####  Alejandro Gutierrez ( Bi Consultant)
+# 👥 Miembros del Equipo
+
+- **Eduardo Villalba Bianqueri** - *Data Scientist*  
+  Experto en modelado predictivo y técnicas avanzadas de análisis de datos para generar soluciones basadas en datos.
+
+- **Carolina Funes** - *Data Analyst & Project Coordinator*  
+  Especialista en análisis de datos, con experiencia en la gestión de proyectos y la transformación de datos en insights clave para la toma de decisiones estratégicas.
+
+- **Nicolás Carrasco** - *Data Engineer*  
+  Ingeniero de datos con experiencia en el diseño y construcción de infraestructuras de datos eficientes, asegurando la calidad y accesibilidad de los datos.
+
+- **Alejandro Gutiérrez** - *BI Consultant*  
+  Consultor en Business Intelligence, enfocado en el diseño e implementación de soluciones analíticas y de visualización para mejorar la toma de decisiones empresariales.
 <p>
 🔧 ##Algunas de las herramientas que se utilizó
 </p>
@@ -58,7 +66,7 @@ Se eliminaron duplicados basados en ticket_no y book_ref.
 ## Relacíones De Tablas en Mysql Server
 
 
-Relaciones entre las tablas:
+**Relaciones entre las tablas**:
 Relación entre flights y airports:
 Un vuelo tiene un aeropuerto de salida y uno de llegada. Esto se refleja en las claves foráneas departure_airport y arrival_airport en la tabla flights, las cuales se refieren a la tabla airports.
 Tipo de relación: Uno a muchos.
