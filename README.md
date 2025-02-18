@@ -2,6 +2,8 @@
 
 ![Image](https://github.com/user-attachments/assets/18c44701-1191-4597-a040-6cde71fa057d)
 
+![Image](https://github.com/Carolinafunes89/aerovistas_airways/blob/main/Night%20Presentation%20-%20Cover.png)
+
 # 👥 Miembros del Equipo
 
 - **Eduardo Villalba Bianqueri** - *Data Scientist*  
