@@ -19,7 +19,7 @@
 🔧 ##Algunas de las herramientas que se utilizó
 </p>
 
-![Image](https://github.com/user-attachments/assets/bcc13cad-bc56-4847-b94e-48e5f9ea94ea)
+![Image](https://github.com/Carolinafunes89/aerovistas_airways/blob/main/Night%20Presentation%20-%20Success%20marketing.png)
 
 - 🖥️ Github Desktop
 - 🔍 Data Browbser
