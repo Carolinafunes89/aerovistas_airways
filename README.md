@@ -1,4 +1,4 @@
-✈️ ## Proyecto: Aerovistas Airways 
+✈️ # Proyecto: Aerovistas Airways
 
 ![Image](https://github.com/Carolinafunes89/aerovistas_airways/blob/main/Night%20Presentation%20-%20Cover.png)
 
