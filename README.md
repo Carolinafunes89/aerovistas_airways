@@ -111,7 +111,6 @@ Relación entre boarding_passes y seats:
 Una tarjeta de embarque está asociada a un asiento. Esto se refleja mediante las claves foráneas aircraft_code y seat_no en la tabla boarding_passes, que hacen referencia a la tabla seats.
 Tipo de relación: Muchos a uno.
 Varios pasajeros pueden tener el mismo asiento.
-## DIAGRAMA DE TELLO
-![Image](https://github.com/user-attachments/assets/12267b8b-1ab1-48b9-bac2-427c534d1a9a)
+
 ## DIAGRAMA DE GANT
 ![Image](https://github.com/Carolinafunes89/aerovistas_airways/blob/main/Gray%20Colorful%20Modern%20Professional%20Social%20Media%20Marketing%20Plan%20Gantt%20Chart%20Graph.png)
